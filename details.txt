@@ -1,0 +1,10 @@
+NOTE PAD :
+Requirements:
+   1.Open a file 
+   2.saving a file
+   3.Choosing the background color
+   4.Choosing the foreground color
+   5.choosing font style for default we are using bold only since demo
+   6.clearing the text
+Here editior is not supporting the image insertion 
+And this gona be implemented through TKinter in python
